@@ -5,12 +5,12 @@ DevOps Enthusiast | MERN Stack Developer | MCA Student
 
 ---
 
-## Professional Summary
+## About Me
 
-I am building strong foundations in DevOps while leveraging my background in full-stack development.  
-My focus is on automation, system reliability, and understanding infrastructure at a deeper level.
+I am focused on building strong foundations in DevOps while leveraging my background in full-stack development.  
+I believe in understanding both applications and infrastructure to build reliable and automated systems.
 
-I believe in learning by building real systems and documenting practical workflows.
+Currently improving my skills through consistent hands-on practice and real-world projects.
 
 ---
 
@@ -20,34 +20,32 @@ I believe in learning by building real systems and documenting practical workflo
 - Strengthening Linux and system fundamentals
 - Writing automation scripts using Shell and Python
 - Working with Docker for containerization
-- Improving backend architecture with the MERN stack
+- Improving backend architecture using the MERN stack
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Development
-React.js  
-Node.js  
-Express.js  
-MongoDB  
-MySQL  
 
-### DevOps & Systems
-Linux  
-Git & GitHub (including GitHub CLI)  
-Shell Scripting  
-Python  
-Docker  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,python,bash" />
+</p>
 
 ---
 
-## Featured Work
+## Featured Projects
 
-- 90 Days of DevOps — Structured daily DevOps practice  
-- MERN Stack Projects — Full-stack application development  
-- Shell Scripts — Practical automation scripts  
-- DevOps Notes — Organized learning references and command guides  
+- 90 Days of DevOps — Structured daily DevOps practice
+- MERN Stack Projects — Full-stack application development
+- Shell Scripts — Practical automation scripts
+- DevOps Notes — Organized learning references and command guides
 
 ---
 
