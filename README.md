@@ -1,16 +1,56 @@
-## Hi there 👋
+# Abhishek Singh
 
-<!--
-**Abhishek25singh25/Abhishek25singh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Learner | MERN Stack Developer | MCA Student  
 
-Here are some ideas to get you started:
+I build applications and automate systems.  
+Currently focused on strengthening my DevOps foundations through consistent hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+
+- 90 Days of DevOps challenge  
+- Automation using Shell & Python  
+- Understanding CI/CD and system-level concepts  
+- Improving backend architecture skills  
+
+---
+
+## Tech Stack
+
+Development  
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+
+DevOps & Tools  
+- Linux  
+- Git & GitHub (including GitHub CLI)  
+- Shell Scripting  
+- Python  
+- Docker   
+
+---
+
+## Projects
+
+- 90 Days of DevOps – Daily practical DevOps tasks  
+- MERN Stack Projects – Full-stack applications  
+- Shell Scripts – Automation scripts  
+- DevOps Notes – Structured learning references  
+
+---
+
+## Goal
+
+To become a DevOps Engineer who understands both application development and infrastructure deeply.
+
+---
+
+## Contact
+
+Email: abhisheksingh252819@gmail.com  
+LinkedIn: https://www.linkedin.com/in/abhishek-singh-b29418332
+
