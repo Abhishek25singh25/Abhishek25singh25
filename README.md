@@ -1,51 +1,59 @@
-# Abhishek Singh
-
-DevOps Learner | MERN Stack Developer | MCA Student  
-
-I build applications and automate systems.  
-Currently focused on strengthening my DevOps foundations through consistent hands-on practice.
+<h1 align="center">Abhishek Singh</h1>
+<p align="center">
+DevOps Enthusiast | MERN Stack Developer | MCA Student
+</p>
 
 ---
 
-## What I'm Working On
+## Professional Summary
 
-- 90 Days of DevOps challenge  
-- Automation using Shell & Python  
-- Understanding CI/CD and system-level concepts  
-- Improving backend architecture skills  
+I am building strong foundations in DevOps while leveraging my background in full-stack development.  
+My focus is on automation, system reliability, and understanding infrastructure at a deeper level.
 
----
-
-## Tech Stack
-
-Development  
-- React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-- MySQL  
-
-DevOps & Tools  
-- Linux  
-- Git & GitHub (including GitHub CLI)  
-- Shell Scripting  
-- Python  
-- Docker   
+I believe in learning by building real systems and documenting practical workflows.
 
 ---
 
-## Projects
+## Current Focus
 
-- 90 Days of DevOps – Daily practical DevOps tasks  
-- MERN Stack Projects – Full-stack applications  
-- Shell Scripts – Automation scripts  
-- DevOps Notes – Structured learning references  
+- Completing the 90 Days of DevOps challenge
+- Strengthening Linux and system fundamentals
+- Writing automation scripts using Shell and Python
+- Working with Docker for containerization
+- Improving backend architecture with the MERN stack
 
 ---
 
-## Goal
+## Technical Skills
 
-To become a DevOps Engineer who understands both application development and infrastructure deeply.
+### Development
+React.js  
+Node.js  
+Express.js  
+MongoDB  
+MySQL  
+
+### DevOps & Systems
+Linux  
+Git & GitHub (including GitHub CLI)  
+Shell Scripting  
+Python  
+Docker  
+
+---
+
+## Featured Work
+
+- 90 Days of DevOps — Structured daily DevOps practice  
+- MERN Stack Projects — Full-stack application development  
+- Shell Scripts — Practical automation scripts  
+- DevOps Notes — Organized learning references and command guides  
+
+---
+
+## Career Objective
+
+To grow into a DevOps Engineer capable of designing scalable, automated, and production-ready systems.
 
 ---
 
@@ -53,4 +61,3 @@ To become a DevOps Engineer who understands both application development and inf
 
 Email: abhisheksingh252819@gmail.com  
 LinkedIn: https://www.linkedin.com/in/abhishek-singh-b29418332
-
