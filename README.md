@@ -45,7 +45,12 @@ Currently improving my skills through consistent hands-on practice and real-worl
 
 <h3>DevSecOps & Security</h3>
 <p>
-  Trivy • Snyk • CodeQL • Dependency Scanning • Container Security • Secrets Management
+  <!-- Using closest relevant icons -->
+  <img src="https://skillicons.dev/icons?i=linux,github,git,docker" />
+</p>
+
+<p>
+  <b>Tools:</b> Trivy • Snyk • CodeQL • Dependency Scanning • Container Security • Secrets Management
 </p>
 
 <hr>
