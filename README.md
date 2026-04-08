@@ -40,7 +40,7 @@ Currently improving my skills through consistent hands-on practice and real-worl
 
 <h3>DevOps & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,bash,python,kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,bash,python,kubernetes,terraform,ansible" />
 </p>
 
 <h3>DevSecOps & Security</h3>
